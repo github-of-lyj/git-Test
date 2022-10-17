@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("Godbye Git!!!");
         System.out.println("???Why do you come back？");
         System.out.println("???the reason you konw!");
+        System.out.println("Why?you know clear than me!");
     }
 }
